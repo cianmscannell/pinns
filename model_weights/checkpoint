@@ -1,0 +1,2 @@
+model_checkpoint_path: "20201125-210546_layers3_neurons32_bnTrue_logTrue.tf"
+all_model_checkpoint_paths: "20201125-210546_layers3_neurons32_bnTrue_logTrue.tf"
