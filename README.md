@@ -6,6 +6,7 @@ This repository provides a Tensorflow 2 implementaion of physics-informed neural
 The parameter identification yielded:
 
 Estimated parameters: c1 = 10.00, c2 = 15.01, c3 = 2.66
+
 True parameters: c1 = 10.00, c2 = 15.00, c3 = 2.67
 
 # Environment setup
