@@ -21,7 +21,7 @@ If you find this code helpful in your research please cite the following paper:
 @article{vanHerten2020pinn,
   title={Physics-informed neural networks for myocardial perfusion MRI quantification.},
   author={van Herten, Rudolf LM and Chiribiri, Amedeo, and Breeuwer, Marcel and Veta, Mitko and Scannell, Cian M},
-  journal={arXiv preprint},
+  journal={arXiv preprint arXiv:2011.12844},
   year={2020}
 }
 ```
